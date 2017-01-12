@@ -76,6 +76,7 @@ Usage:
   budo index.js [opts] -- [browserify opts]
 
 Options:
+  --destination    destination for bundle file
   --help, -h       show help message
   --version        show version
   --port, -p       the port to run, default 9966
